@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sheraz_Garden/static/css/main.12b2e39c.chunk.css",
+    "main.js": "/Sheraz_Garden/static/js/main.fd533909.chunk.js",
+    "main.js.map": "/Sheraz_Garden/static/js/main.fd533909.chunk.js.map",
+    "runtime-main.js": "/Sheraz_Garden/static/js/runtime-main.620e1654.js",
+    "runtime-main.js.map": "/Sheraz_Garden/static/js/runtime-main.620e1654.js.map",
+    "static/css/2.4be38407.chunk.css": "/Sheraz_Garden/static/css/2.4be38407.chunk.css",
+    "static/js/2.b0225e2d.chunk.js": "/Sheraz_Garden/static/js/2.b0225e2d.chunk.js",
+    "static/js/2.b0225e2d.chunk.js.map": "/Sheraz_Garden/static/js/2.b0225e2d.chunk.js.map",
+    "index.html": "/Sheraz_Garden/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Sheraz_Garden/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.12b2e39c.chunk.css.map": "/Sheraz_Garden/static/css/main.12b2e39c.chunk.css.map",
+    "static/js/2.b0225e2d.chunk.js.LICENSE.txt": "/Sheraz_Garden/static/js/2.b0225e2d.chunk.js.LICENSE.txt",
+    "static/media/about.360604f6.png": "/Sheraz_Garden/static/media/about.360604f6.png",
+    "static/media/huose.52ab7c18.webp": "/Sheraz_Garden/static/media/huose.52ab7c18.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.620e1654.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.b0225e2d.chunk.js",
+    "static/css/main.12b2e39c.chunk.css",
+    "static/js/main.fd533909.chunk.js"
+  ]
+}
